@@ -48,5 +48,4 @@ Post-implementation, a playback session will be conducted to demonstrate the fun
 ## Contributing
 Feel free to fork the repository and submit pull requests for any improvements or enhancements.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
